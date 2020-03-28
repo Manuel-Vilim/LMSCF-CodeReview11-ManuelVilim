@@ -1,0 +1,19 @@
+#bground{
+	background-color: lightgray;
+	padding: 5%;
+	margin-top: 5%;
+	border-radius: 20px;
+	}
+
+#test{
+	border-radius: 5px
+}
+
+.button{
+	background-color: #007BFF;
+	border-radius: 5px;
+	
+}
+body{
+	background-color: lightgray;
+}
